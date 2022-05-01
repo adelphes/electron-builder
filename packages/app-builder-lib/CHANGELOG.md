@@ -1,5 +1,11 @@
 # app-builder-lib
 
+## 23.0.9
+
+### Patch Changes
+
+- [#6817](https://github.com/electron-userland/electron-builder/pull/6817) [`2860d132`](https://github.com/electron-userland/electron-builder/commit/2860d132fc837813627e6508e05b18ed5e5dedfc) Thanks [@rainbean](https://github.com/rainbean)! - fix: incompatible Windows sign tool in end user environment. Unify code logic to give end-user a chance to assign correct signtool.exe path with environment variable
+
 ## 23.0.8
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 ## 4.3.0
 
+## 5.0.4
+
+### Patch Changes
+
+- [#6822](https://github.com/electron-userland/electron-builder/pull/6822) [`bfe29a5e`](https://github.com/electron-userland/electron-builder/commit/bfe29a5e991c2719032877bd7225b15b6b836221) Thanks [@RoikkuTo](https://github.com/RoikkuTo)! - fix: Unable to find latest version on GitHub
+
 ## 5.0.3
 
 ### Patch Changes
